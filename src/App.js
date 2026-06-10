@@ -2,7 +2,7 @@ import React, { useState, useMemo } from "react";
 
 // ─── Access Control ───────────────────────────────────────────────────────────
 const APP_PASSWORD = "LIFRA-Analyzer1!";
-const USER_PINS = { masoud:"1234", advisor1:"0000", advisor2:"0000" };
+const USER_PINS = { masoud:"1234", aaron:"4286" };
 const PIN_TO_NAME = Object.fromEntries(Object.entries(USER_PINS).map(([n,p])=>[p,n]));
 
 // ─── Colors (identical to Estate Liquidity Analyzer) ─────────────────────────
