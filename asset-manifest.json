@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lifra-analyzer/static/css/main.e6c13ad2.css",
-    "main.js": "/lifra-analyzer/static/js/main.731bf6c7.js",
+    "main.js": "/lifra-analyzer/static/js/main.fc2275c9.js",
     "static/js/453.f982a223.chunk.js": "/lifra-analyzer/static/js/453.f982a223.chunk.js",
     "index.html": "/lifra-analyzer/index.html",
     "main.e6c13ad2.css.map": "/lifra-analyzer/static/css/main.e6c13ad2.css.map",
-    "main.731bf6c7.js.map": "/lifra-analyzer/static/js/main.731bf6c7.js.map",
+    "main.fc2275c9.js.map": "/lifra-analyzer/static/js/main.fc2275c9.js.map",
     "453.f982a223.chunk.js.map": "/lifra-analyzer/static/js/453.f982a223.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.731bf6c7.js"
+    "static/js/main.fc2275c9.js"
   ]
 }
